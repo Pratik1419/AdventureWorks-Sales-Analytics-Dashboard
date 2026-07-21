@@ -3,10 +3,10 @@
 *Instructors: Aaron Parry & Chris Dutton*
 
 ## Project Overview
-A professional-grade, multi-page Power BI dashboard built 
-on the AdventureWorks dataset — covering executive 
+A professional grade, multi-page Power BI dashboard built 
+on the AdventureWorks dataset covering executive 
 reporting, product analysis, customer segmentation, 
-geographic distribution, and AI-powered insights across 
+geographic distribution, and AI powered insights across 
 3 years of bike shop sales data (2020–2022).
 
 ## Dashboard Pages
@@ -70,6 +70,6 @@ Power BI Desktop · DAX · Data Modeling ·
 Power Query · AI Visuals · What-If Parameters
 
 ## Course
-Maven Analytics — Microsoft Power BI Desktop for 
+Maven Analytics Microsoft Power BI Desktop for 
 Business Intelligence
 Instructors: Aaron Parry & Chris Dutton
